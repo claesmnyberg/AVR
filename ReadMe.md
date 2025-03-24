@@ -1,4 +1,4 @@
-# AVR Stuff
+# AVR Stuff from 2003
 ## ©️ 2003 Claes M Nyberg, cmn@signedness.org
 
 AT90S2313 calculator using serial
